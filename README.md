@@ -1,2 +1,8 @@
-# Login-page
- I Completed my first task  successfully.  have successfully designed and developed a fully functional login page that meets the specified requirements. The page is user-friendly, secure, and visually appealing while maintaining consistency with the overall website theme.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
